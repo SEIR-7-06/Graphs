@@ -2,7 +2,6 @@
 
 # Graphs
 
-## Overview
 In this lesson, we cover the basics of the node-based data structures known as graphs.
 
 There are two components to this lesson:
@@ -18,14 +17,8 @@ By the end of this lesson, you'll be able to:
 - Implement a graph.
 
 ## Prerequisites
-- Big O Notation
-- Linked lists
-- Binary trees
-
-## Duration
-1.5 hours total:
-* 0.5 hour myGA
-* 1 hour in class
+* Big O Notation
+* [myGA module: Graphs](https://my.generalassemb.ly/activities/403)
 
 ## Additional Resources
 * Some graph data structure [interview question topics](https://medium.com/@codingfreak/graph-data-structure-interview-questions-and-practice-problems-22d5cd488855).
