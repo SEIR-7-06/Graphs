@@ -12,6 +12,7 @@ By the end of this lesson, you'll be able to:
 
 ## Prerequisites
 * Big O Notation
+* [myGA Home - Navigate to the "Data Structures" Module](https://my.generalassemb.ly/)
 * [myGA module: Graphs](https://my.generalassemb.ly/activities/403)
 
 ## Additional Resources
